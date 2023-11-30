@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  border: 1px solid red;
+  padding: 30px;
+}
+
+.header ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
